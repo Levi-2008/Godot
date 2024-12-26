@@ -1,0 +1,4 @@
+[Godot]
+
+Godot1="1234"
+Godot2="ok"
